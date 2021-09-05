@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-<a href="[1117jhh@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/[React]-[#61DAFB]?style=flat-square&logo=[React]&logoColor=white"/></a>
+<a href="1117jhh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
