@@ -3,9 +3,9 @@
 ### 이것은 논쟁의 여지가 없는 명백한 진리이다. -Pablo picasso-
 
 
-Here are some ideas to get you started:
 
-<h3 align="center"> 🐍Using Language🐍 </h3>
+<h3 align="center"> 🐍 Using Language 🐍 </h3>
 
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<p align="center">
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> </p>
 
