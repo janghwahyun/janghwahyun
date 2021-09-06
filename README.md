@@ -1,6 +1,6 @@
-### 할 수 있다고 생각하는 사람은 할 수 있고,</br>
-### 할 수 없다고 생각하는 사람은 할 수 없다.</br>
-### 이것은 논쟁의 여지가 없는 명백한 진리이다. &nbsp -Pablo picasso-
+## 할 수 있다고 생각하는 사람은 할 수 있고,</br>
+## 할 수 없다고 생각하는 사람은 할 수 없다.</br>
+## 이것은 논쟁의 여지가 없는 명백한 진리이다. -Pablo picasso-
 
 <!--
 **janghwahyun/janghwahyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
