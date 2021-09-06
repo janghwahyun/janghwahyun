@@ -11,7 +11,7 @@
 ---
 
 
-<h4 align="center"> Using Languag</h3>
+<h4 align="center"> Using Language</h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
