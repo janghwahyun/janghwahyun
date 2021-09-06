@@ -10,5 +10,7 @@
 <h4 align="center"> 🐍 Using Language 🐍 </h3>
 
 <p align="center">
+ <target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 </p>
 
