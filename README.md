@@ -1,13 +1,14 @@
 <p align="center">
 <img src="https://mblogthumb-phinf.pstatic.net/20150120_66/qpfm52_1421706353609MyYNJ_JPEG/f2.JPG?type=w2"/>
 </p>
+<h4 align="center"> </h3>
 
-<!-- <h3 style="bold", align="center">
- 할 수 있다고 생각하는 사람은 할 수 있고,</br>
- 할 수 없다고 생각하는 사람은 할 수 없다.</br>
- 이것은 논쟁의 여지가 없는 명백한 진리이다.</br>
-          -Pablo picasso- </p> -->
-
+<p align="center">
+Hi there 😃 </br>
+Good day! I'm learining React these days.</br>
+I want to vecome a developer who can make beatiful web/app.</br>
+I won't give up. Thank you~~
+</p>
 
 <h4 align="center"> Using Language</h3>
 
@@ -23,3 +24,4 @@
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   </p>
+  
