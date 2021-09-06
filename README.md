@@ -6,7 +6,7 @@
 <p align="center">
 Hi there 😃 </br>
 Good day! I'm learining React these days.</br>
-I want to become a developer who can make beatiful web/app.</br>
+I want to become a developer who can make beatiful web & app.</br>
 I won't give up. Thank you~~
 </p>
 
