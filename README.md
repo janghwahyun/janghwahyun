@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://mblogthumb-phinf.pstatic.net/20131215_226/leeo1020_1387049095305GTq80_JPEG/%C7%C7%C4%AB%BC%D2_%BC%D2%B5%E9.jpg?type=w2"/>
+<img src="https://mblogthumb-phinf.pstatic.net/20150120_66/qpfm52_1421706353609MyYNJ_JPEG/f2.JPG?type=w2"/>
 </p>
 
 <!-- <h3 style="bold", align="center">
@@ -7,8 +7,6 @@
  할 수 없다고 생각하는 사람은 할 수 없다.</br>
  이것은 논쟁의 여지가 없는 명백한 진리이다.</br>
           -Pablo picasso- </p> -->
-              
----
 
 
 <h4 align="center"> Using Language</h3>
