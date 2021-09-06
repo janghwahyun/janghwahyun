@@ -4,13 +4,21 @@
  이것은 논쟁의 여지가 없는 명백한 진리이다.</br>
           -Pablo picasso- </p>
               
+---
 
 
-
-<h4 align="center"> 🐍 Using Language 🐍 </h3>
+<h4 align="center">🇰🇷 Using Language🇰🇷 </h3>
 
 <p align="center">
- <target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
+ <target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 </p>
 
+<h4 align="center">㉿ Using Tool ♺</h3>
+  <p align="center">
+   <target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+   <target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+   <target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+       <target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+        
+  </p>
