@@ -26,6 +26,4 @@ I won't give up. Thank you~~
   </p>
   
   
-<a align="center">
- < href= "https://dev.habitmaker.co.kr/">
- </a>
+  <a href ="https://dev.habitmaker.co.kr/" />
