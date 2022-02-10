@@ -26,6 +26,6 @@ I won't give up. Thank you~~
   </p>
   
   
-<p align="center">
- <img src = "https://dev.habitmaker.co.kr/">
- </p>
+<a align="center">
+ < href= "https://dev.habitmaker.co.kr/">
+ </a>
