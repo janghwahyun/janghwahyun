@@ -1,8 +1,9 @@
+
 <p align="center">
-<h5>R.I.P </h5>
 <img src="https://mblogthumb-phinf.pstatic.net/20150120_66/qpfm52_1421706353609MyYNJ_JPEG/f2.JPG?type=w2"/>
 </p>
-<h4 align="center"> </h3>
+<h5 align="center"> 🌼🌸🌹 R.I.P 쥴리 🌼🌸🌹 </h5>
+
 
 <p align="center">
 Hi there 😃 </br>
