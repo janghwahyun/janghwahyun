@@ -1,4 +1,5 @@
 <p align="center">
+<h5>R.I.P </h5>
 <img src="https://mblogthumb-phinf.pstatic.net/20150120_66/qpfm52_1421706353609MyYNJ_JPEG/f2.JPG?type=w2"/>
 </p>
 <h4 align="center"> </h3>
@@ -13,7 +14,7 @@ I won't give up. Thank you~~
 <h4 align="center"> MBTI </h4>
 <p align="center">ENFP - A</p>
 
-<h4 align="center"> R.I.P 쥴리 </h4>
+
 
 <h4 align="center"> Using language</h4>
 <p align="center">
