@@ -7,11 +7,13 @@
 Hi there 😃 </br>
 Good day! I'm currently learining React.</br>
 I want to become a developer who can make beatiful web & app.</br>
-I won't give up. Thank you~~
+I won't give up. Thank you~~ 
 </p>
 
 <h4 align="center"> MBTI </h4>
 <p align="center">ENFP - A</p>
+
+<h4 align="center"> R.I.P 쥴리 </h4>
 
 <h4 align="center"> Using language</h4>
 <p align="center">
