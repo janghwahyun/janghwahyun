@@ -12,11 +12,19 @@ I want to become a developer who can make beatiful web & app.</br>
 I won't give up. Thank you~~ 
 </p>
 
-<h4 align="center"> MBTI </h4>
-<p align="center">ENFP - A</p>
+<h4 align="center"> MBTI : ENFP - A</h4>
+ 
+ 
+ 
+<div align=center>
+	
+ [개발블로그 : Notion](https://www.notion.so/c4ee18677fd94ff2bf58692ce95c9d0e?v=46fe938dd454447aa225de5b1e1db3fb)
+
+</div>
 
 
 
+ 
 <h4 align="center"> Using language</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
