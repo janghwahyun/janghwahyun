@@ -4,7 +4,6 @@
 </p>
 <h5 align="center"> 🌼🌸🌹 R.I.P 쥴리 (2008.03 ~ 2022.05)🌹🌸🌼 </h5>
 
-
 <p align="center">
 Hi there 😃 </br>
 Good day! I'm currently learining React.</br>
@@ -14,17 +13,12 @@ I won't give up. Thank you~~
 
 <h4 align="center"> MBTI : ENFP - A</h4>
  
- 
- 
 <div align=center>
 	
- [개발블로그 : Notion](https://www.notion.so/c4ee18677fd94ff2bf58692ce95c9d0e?v=46fe938dd454447aa225de5b1e1db3fb)
+ [개발블로그 : Notion](https://evening-nerve-351.notion.site/c4ee18677fd94ff2bf58692ce95c9d0e?v=46fe938dd454447aa225de5b1e1db3fb)
 
 </div>
 
-
-
- 
 <h4 align="center"> Using language</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
