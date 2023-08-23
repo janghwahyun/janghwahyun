@@ -11,7 +11,7 @@ I want to become a developer who can make beatiful web & app.</br>
 I won't give up. Thank you~~ 
 </p>
 
-<h4 align="center"> MBTI : ENFP - A</h4>
+<h4 align="center"> MBTI : ISTP</h4>
  
 <div align=center>
 	
